@@ -1,0 +1,9 @@
+Estructuras de control:
+-Secencial:
+Diagrama de flujo, pseudocodigo.
+
+Las acciones se ejeccutan una atras de la otra sin que haya una condicion en el medio. No hay condicionales
+
+-Conducional
+
+-Repetitivas
