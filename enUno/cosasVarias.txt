@@ -1,0 +1,15 @@
+Compilar y ejecutar en ubuntu:
+Compilar:
+g++ -o <nombreDeseado> <nombre codigo fuente>
+
+Ejecutar:
+./<nombreEjecutable>
+
+En caso de que no se genere el archivo de salida como ejecutable automaticamente, correr:
+chmod +x ./<nombreEjecutable>
+
+*****************************
+Video sobre analisis numerico y numeros de coma flotante
+https://www.youtube.com/watch?v=pQs_wx8eoQ8
+
+*****************************
